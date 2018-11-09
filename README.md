@@ -1,13 +1,13 @@
 # vue-demo
 vue 练习
-get clone https://github.com/appchen/vue-demo.git
-get status
-get add README.md
-get commit README.MD
-get push
+git clone https://github.com/appchen/vue-demo.git
+git status
+git add README.md
+git commit -m 'mark infomation README.MD
+git push
 ------
-get pull
-get log
-get reflog
-get reset --hard 前8位
-get reset --hard HEAD
+git pull
+git log
+git reflog
+git reset --hard 前8位
+git reset --hard HEAD
