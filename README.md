@@ -11,3 +11,8 @@ git log
 git reflog
 git reset --hard 前8位
 git reset --hard HEAD
+------
+撤销修改
+工作区：git checkout --filename
+暂存区: git reset HEAD filename
+本地代码库（已commit到分支):get rest --hard 版本号
